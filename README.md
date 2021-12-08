@@ -4,6 +4,7 @@ the example program is in the main.c in order to compile the example just downlo
 
 ALternative you can run the main executable program.
 
-NOTE: svg.c is the same as main.c but I was playing around with it.
+NOTE: svg.c is the same as main.c but I was playing around with it. 
+Also there seems to be several files, this is due to the fact that I've also uploaded codeblocks project file.
  
 The program create a scalable vector graphic from designated format consisting of coordinates,shapes and color  then saves it into an accessible svg file.
