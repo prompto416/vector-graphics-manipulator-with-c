@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1638874313 source:d:\coding bin\svgtest\main.c
+	<stdio.h>
+	<math.h>
+	<time.h>
+	"svg.h"
+
+1638874259 d:\coding bin\svgtest\svg.h
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+

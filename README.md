@@ -1,3 +1,2 @@
-# Vector-Graphics-Manipulator
-
-64011548 Phobphoomin Siriboon Manipulating Vector Graphics KMITL 
+For full details of this project go to
+http://www.codedrome.com/svg-library-in-c/
