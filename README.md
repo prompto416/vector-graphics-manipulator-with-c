@@ -10,8 +10,9 @@ The program generates a Scalable Vector Graphic file/document from designated fo
 * ![](image/4.jpg)
 ![](image/1.jpg)
 **So basically if we can create a file and write string and numbers into it then we can create an SVG file as you can see number 1 is the starting tag 2 is the body and 3 is the closing tag.**
+
+* **This function right here writes string and numbers into the document.**
 * ![](image/5.jpg)
-This function right here writes string and numbers into the document.
 
 
 
