@@ -43,4 +43,6 @@ The program generates a Scalable Vector Graphic file/document from designated fo
 
 
 ## Reference:
-* Simple SVG libary in c from codedrome  
+* Simple SVG libary in C from codedrome **As Seen in the picture number 2 which are the core functions.**  
+
+
