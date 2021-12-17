@@ -8,8 +8,8 @@ The program generates a Scalable Vector Graphic file/document from designated fo
 ## Documentation: 
 * **An Example Of An SVG File's Data**
 ![](image/4.jpg)
-([NUMBER 1](#These-core-functions-right-here-write-string-and-numbers-into-the-document.))
-* **So basically if we can create a file and write string and numbers into it then we can create an SVG file as you can see Number 1 is the starting tag 2 is the body and 3 is the closing tag.**
+
+* **So basically if we can create a file and write string and numbers into it then we can create an SVG file as you can see ([NUMBER 1](#These-core-functions-right-here-write-string-and-numbers-into-the-document.)) is the starting tag 2 is the body and 3 is the closing tag.**
 ![](image/1.jpg)
  
 
