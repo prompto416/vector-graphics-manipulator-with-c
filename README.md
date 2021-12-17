@@ -1,6 +1,13 @@
 # Vector Graphics Manipulator 
 * Phobphoomin Siriboon 64011548 
 * Please see the Description and Documentation for the algorithm and how the project works.
+## Instruction: 
+the example program is in the main.c in order to compile the example just download the files and include the header, no external libary is needed except for the svg header file which contains svg and files function. Once you compile the code a file will be generated in the same folder as in the main.c.
+
+ALternatively you can run the main executable program.
+
+**NOTE**: svg.c is the same as main.c but I was playing around with it. 
+Also there seems to be several files, this is due to the fact that I've also uploaded codeblocks project file.
 ## Description:
 The program generates a Scalable Vector Graphic file/document from designated format consisting of coordinates,shapes and color by
 * Creating a file with file I/O then saving it as a svg format later.
@@ -27,13 +34,7 @@ The program generates a Scalable Vector Graphic file/document from designated fo
 
 
 
-## Instruction: 
-the example program is in the main.c in order to compile the example just download the files and include the header, no external libary is needed except for the svg header file which contains svg and files function. Once you compile the code a file will be generated in the same folder as in the main.c.
 
-ALternatively you can run the main executable program.
-
-**NOTE**: svg.c is the same as main.c but I was playing around with it. 
-Also there seems to be several files, this is due to the fact that I've also uploaded codeblocks project file.
  
 
 
