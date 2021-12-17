@@ -1,5 +1,7 @@
 # Vector Graphics Manipulator 
 * Phobphoomin Siriboon 64011548 
+## Description:
+The program create a scalable vector graphic from designated format consisting of coordinates,shapes and color  then saves it into an accessible svg file.
 
 
 
@@ -11,7 +13,7 @@ ALternatively you can run the main executable program.
 **NOTE**: svg.c is the same as main.c but I was playing around with it. 
 Also there seems to be several files, this is due to the fact that I've also uploaded codeblocks project file.
  
-The program create a scalable vector graphic from designated format consisting of coordinates,shapes and color  then saves it into an accessible svg file.
+
 
 ## Reference:
 * Simple SVG libary in c from codedrome  
