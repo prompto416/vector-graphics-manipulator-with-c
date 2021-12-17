@@ -6,6 +6,8 @@ The program generates a Scalable Vector Graphic file/document from designated fo
 * Defining the core function to write **XML Open Tag Shape Size Color Object and closing the tag**
 * Making a sub function to call the core function in order to write the data we want and **draw** the **object** we want
 ## Documentation: 
+# An Example Of An SVG File Data
+![](image/4.jpg)
 ![](image/1.jpg)
 
 
