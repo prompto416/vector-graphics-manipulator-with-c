@@ -31,6 +31,9 @@ The program generates a Scalable Vector Graphic file/document from designated fo
 
 
 
+## Output Sample: 
+![](image/6.jpg)
+![](image/7.jpg)
 
 
 
