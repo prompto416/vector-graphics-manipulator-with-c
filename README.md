@@ -1,5 +1,5 @@
 # Vector Graphics Manipulator 
-Phobphoomin Siriboon 64011548 
+## Phobphoomin Siriboon 64011548 
 
 
 header svg.h
