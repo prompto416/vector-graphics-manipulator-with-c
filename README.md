@@ -1,7 +1,7 @@
 # Vector Graphics Manipulator 
 * Phobphoomin Siriboon 64011548 
 ## Description:
-The program create a scalable vector graphic from designated format consisting of coordinates,shapes and color  then saves it into an accessible svg file.
+The program creates a scalable vector graphic from designated format consisting of coordinates,shapes and color  then saves it into an accessible svg file.
 
 
 
