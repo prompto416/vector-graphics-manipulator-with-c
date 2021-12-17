@@ -7,7 +7,7 @@ The program generates a Scalable Vector Graphic file/document from designated fo
 * Making a sub function to call the core function in order to write the data we want and **draw** the **object** we want
 ## Documentation: 
 * **An Example Of An SVG File's Data**
-* ![](image/4.jpg)
+![](image/4.jpg)
 
 * **So basically if we can create a file and write string and numbers into it then we can create an SVG file as you can see number 1 is the starting tag 2 is the body and 3 is the closing tag.**
 * ![](image/1.jpg)
