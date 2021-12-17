@@ -14,4 +14,4 @@ Also there seems to be several files, this is due to the fact that I've also upl
 The program create a scalable vector graphic from designated format consisting of coordinates,shapes and color  then saves it into an accessible svg file.
 
 ## Reference:
-* Header File svg.h by codedrome 
+* Simple SVG libary in c from codedrome  
