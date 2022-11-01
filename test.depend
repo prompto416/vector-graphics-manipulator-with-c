@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1631746735 source:d:\coding bin\test\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<conio.h>
+
+1639587482 source:d:\coding bin\test\main.c
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
